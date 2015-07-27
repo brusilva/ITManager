@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ITManager
+</name>
+</assembly>
+<members>
+<member name="M:ITManage.FrmSettings.subLerConfig">
+ Esta rotina tenta ler a configuração, se não conseguir mete valores de defeito nas variáveis 
+
+</member><member name="M:ITManage.FrmSettings.subValores2Caixas">
+	<summary>
+ Copia os valores para as caixas de texto e formata-as
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ITManage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ITManage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ITManage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ITManage.clsSqlServer.EnumerateServers">
+	<summary>
+ The form of EnumerateServers for all machines in the network.
+ </summary>
+</member><member name="M:ITManage.clsSqlServer.EnumerateServers(System.String)">
+	<summary>
+ Return a collection of server instance descriptors for all SQL Servers within a network
+ </summary>
+	<param name="computerName">Specify a computer name to target a particular machine</param>
+	<returns>An array of ServerInstance descriptor objects</returns>
+	<remarks>This method translates the DataTable to a list of objects with Intellisense.</remarks>
+</member><member name="M:ITManage.FrmEmpresa.SubLerEmpresa">
+	<summary>
+ AKI AINDA NAO TA
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
